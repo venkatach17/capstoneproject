@@ -1,3 +1,3 @@
 
-FROM venkatach17/webapp
+FROM venkatach17/website
 ADD . /var/www/html
